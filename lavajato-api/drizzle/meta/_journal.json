@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1765132776325,
+      "tag": "0000_minor_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1765132818143,
+      "tag": "0001_normal_bullseye",
+      "breakpoints": true
+    }
+  ]
+}
